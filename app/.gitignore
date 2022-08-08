@@ -1,0 +1,5 @@
+mp3/*
+test/*
+static/*
+__pycache__/
+*.py[cod]

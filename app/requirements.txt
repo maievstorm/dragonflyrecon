@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+mysql-connector-python
+psycopg2
+fastapi
+uvicorn
+pydantic
+minio
+python-multipart
